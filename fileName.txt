@@ -1,0 +1,6 @@
+int main()
+{
+	double i=6, j=8;
+	cout<<2*i+j<<"stringlit"<<endl;
+	return 0;
+}
