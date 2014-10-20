@@ -1,0 +1,26 @@
+#include<iostream>
+#include<deque>
+#include<ctype.h>
+#include<string>
+using namespace std;
+program sample_file;
+var
+	a,b,ab:string;//string variables
+	c,d,cd:int;  //interger variables
+	e,gee:double;  //float type
+begin // start of the main code
+	a:='hi';
+	b:=' there';
+	ab:=a+b; /*concat strings*/
+	c:=345;
+	d:=33333;
+	cd:=c+d; /*add integers*/
+	e:=3.14;
+	gee:=c+e; /*add integers reals*/
+	readfromfile[A:testfile.txt];
+	for (i=0; i<10;i++)
+	begin
+		read(string);
+		writetofile(A:test,i];
+	end;
+end. //done
